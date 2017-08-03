@@ -1,0 +1,124 @@
+Randy Bimm
+
+PROG2220: Section 1
+
+Assignment 1: Task 1
+
+Current System Date
+2016-09-13 11:08:05
+
+
+*** Task 1, Q1. Textbook Exercise 3-06 (page 111) [2 points] ***
+
+vendor_name	vendor_contact_last_name	vendor_contact_first_name
+Dristas Groom & McCormick	Aaronsen	Thom
+Internal Revenue Service	Aileen	Joan
+US Postal Service	Alberto	Francesco
+Yale Industrial Trucks-Fresno	Alexis	Alexandro
+Leslie Company	Alondra	Zev
+American Booksellers Assoc	Angelica	Nashalie
+Courier Companies, Inc	Antavius	Troy
+Pacific Gas & Electric	Anthoni	Kaitlyn
+Lou Gentile's Flower Basket	Anum	Trisha
+Pollstar	Aranovitch	Robert
+
+
+*** Task 1, Q2. Textbook Exercise 3-07 (page 111) [1 points] ***
+
+Vendor Full Name
+Aaronsen, Thom
+Aileen, Joan
+Alberto, Francesco
+Alexis, Alexandro
+Alondra, Zev
+Angelica, Nashalie
+Antavius, Troy
+Anthoni, Kaitlyn
+Anum, Trisha
+Aranovitch, Robert
+Armando, Jan
+Arodondo, Cesar
+Articunia, Mercedez
+Aryn, Leroy
+Baylee, Dakota
+Beauregard, Violet
+Bernard, Lucy
+Bernardo, Brittnee
+Blanca, Korah
+Bluzinski, Rachael
+Bradlee, Daniel
+Bragg, Walter
+Braydon, Anne
+Brenton, Kila
+Brooklynn, Keely
+Bucket, Charlie
+Camron, Trentin
+Carrollton, Priscilla
+Carson, Julian
+Chaddick, Derek
+Cheyenne, Kaylea
+Church, Charlie
+Clifford, Jillian
+Colette, Dusty
+Colton, Leah
+Edgardo, Salina
+Eliana, Nikolas
+Elmert, Ron
+Essence, Marjorie
+Eulalia, Kelsey
+Evan, Emily
+
+
+*** Task 1, Q3. Textbook Exercise 3-08 (page 111) [1 points] ***
+
+Due Date	Invoice Total	10%	Plus 10%
+2014-05-24	601.95	60.1950	662.1450
+2014-05-16	662.00	66.2000	728.2000
+2014-06-02	856.92	85.6920	942.6120
+2014-06-20	953.10	95.3100	1048.4100
+2014-06-24	565.15	56.5150	621.6650
+2014-06-29	639.77	63.9770	703.7470
+2014-07-11	936.93	93.6930	1030.6230
+2014-07-25	904.14	90.4140	994.5540
+2014-08-06	739.20	73.9200	813.1200
+2014-08-08	600.00	60.0000	660.0000
+2014-08-10	579.42	57.9420	637.3620
+2014-08-23	503.20	50.3200	553.5200
+
+
+*** Task 1, Q4. Textbook Exercise 3-09 (page 111) [2 points] ***
+
+invoice_number	invoice_total	payment_credit_total	balance_due
+P-0608	20551.18	1200.00	19351.18
+0-2436	10976.06	0.00	10976.06
+31361833	579.42	0.00	579.42
+9982771	503.20	0.00	503.20
+547480102	224.00	0.00	224.00
+
+
+*** Task 1, Q5. Textbook Exercise 3-10 (page 112) [2 points] ***
+
+invoice_number	invoice_total	payment_credit_total	balance_due	payment_date
+39104	85.31	0.00	85.31	NULL
+963253264	52.25	0.00	52.25	NULL
+31361833	579.42	0.00	579.42	NULL
+263253268	59.97	0.00	59.97	NULL
+263253270	67.92	0.00	67.92	NULL
+263253273	30.75	0.00	30.75	NULL
+P-0608	20551.18	1200.00	19351.18	NULL
+9982771	503.20	0.00	503.20	NULL
+134116	90.36	0.00	90.36	NULL
+0-2436	10976.06	0.00	10976.06	NULL
+547480102	224.00	0.00	224.00	NULL
+
+
+*** Task 1, Q6. Textbook Exercise 3-11 (page 112) [1 points] ***
+
+Current_Date
+09-13-2016
+
+
+*** Task 1, Q7. Textbook Exercise 3-12 (page 112) [1 points] ***
+
+starting_principle	interest	principle_plus_interest
+50000	3250.000	53250.000

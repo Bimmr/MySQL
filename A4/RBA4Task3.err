@@ -1,0 +1,3 @@
+ERROR 1048 (23000) at line 64: Column 'audit_user' cannot be null
+ERROR 1364 (HY000) at line 71: Field 'p_id' doesn't have a default value
+ERROR 1451 (23000) at line 77: Cannot delete or update a parent row: a foreign key constraint fails (`swexpert`.`consultant_skill`, CONSTRAINT `consultant_skill_c_id_fk` FOREIGN KEY (`c_id`) REFERENCES `consultant` (`c_id`))
